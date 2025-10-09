@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SilkRoadContestTest
+comment0.text=\r\n\ Pruebas\ de\ unidad\ para\ la\ clase\ SilkRoadContest.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ accordingNAShouldSolveMarathonProblem()
+comment3.text=\r\n\ Prueba\ el\ m\u00E9todo\ solve\ con\ la\ entrada\ de\ ejemplo\ del\ problema\ de\ la\ marat\u00F3n.\r\n\ NOTA\:\ El\ resultado\ esperado\ [0,\ 15,\ 65,\ 65,\ 85,\ 115]\ se\ basa\ en\ un\ algoritmo\ voraz\r\n\ que\ prioriza\ las\ tiendas\ con\ m\u00E1s\ tenges,\ asign\u00E1ndolas\ al\ robot\ disponible\ m\u00E1s\ cercano.\r\n\ Este\ es\ un\ enfoque\ v\u00E1lido\ para\ "maximizar\ la\ ganancia".\r\n
+comment4.params=
+comment4.target=void\ accordingNAShouldPrioritizeHigherTengesStore()
+comment4.text=\r\n\ Prueba\ un\ escenario\ simple\ donde\ un\ robot\ debe\ elegir\ la\ tienda\ con\ m\u00E1s\ tenges,\r\n\ no\ necesariamente\ la\ m\u00E1s\ cercana.\r\n
+numComments=5
