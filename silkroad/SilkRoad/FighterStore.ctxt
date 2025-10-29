@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=FighterStore
-comment0.text=\r\n\ Una\ tienda\ que\ solo\ entrega\ tenges\ a\ robots\r\n\ que\ tengan\ m\u00E1s\ tenges\ que\ ella.\r\n\ Requisito\ del\ Ciclo\ 4.\r\n
-comment1.params=location\ tenges\ color\ x\ y
-comment1.target=FighterStore(int,\ int,\ java.lang.String,\ int,\ int)
-comment2.params=collector
-comment2.target=int\ collectTenges(Robot)
-comment2.text=\r\n\ Solo\ entrega\ tenges\ si\ el\ robot\ recolector\ tiene\ m\u00E1s\ tenges\ que\ esta\ tienda.\r\n
-numComments=3

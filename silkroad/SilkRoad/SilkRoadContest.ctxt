@@ -1,9 +1,0 @@
-#BlueJ class context
-comment0.target=SilkRoadContest
-comment0.text=\r\n\ Resuelve\ y\ simula\ el\ problema\ de\ la\ marat\u00F3n.\r\n
-comment1.params=days
-comment1.target=int[]\ solve(int[][])
-comment2.params=days\ slow
-comment2.target=void\ simulate(int[][],\ boolean)
-comment2.text=\r\n\ Simula\ la\ soluci\u00F3n.\r\n
-numComments=3

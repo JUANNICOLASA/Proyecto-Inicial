@@ -1,6 +1,0 @@
-#BlueJ class context
-comment0.target=NormalStore
-comment0.text=\r\n\ Una\ tienda\ "normal"\ que\ entrega\ sus\ tenges\ a\ cualquier\ robot.\r\n\ Hereda\ de\ Store\ (Ciclo\ 4).\r\n
-comment1.params=location\ tenges\ color\ x\ y
-comment1.target=NormalStore(int,\ int,\ java.lang.String,\ int,\ int)
-numComments=2
