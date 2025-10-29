@@ -1,0 +1,24 @@
+#BlueJ class context
+comment0.target=SilkRoadC4Test
+comment0.text=\r\n\ Pruebas\ de\ unidad\ para\ los\ nuevos\ requisitos\ del\ Ciclo\ 4.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment10.params=
+comment10.target=void\ shouldNotPlaceAutonomousStoreOnExisting()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ shouldTenderRobotCollectHalfTenges()
+comment4.params=
+comment4.target=void\ shouldTenderRobotCollectHalfTengesOddNumber()
+comment5.params=
+comment5.target=void\ shouldNeverbackRobotNotMoveBackwards()
+comment6.params=
+comment6.target=void\ shouldThiefRobotStealFromAnotherRobot()
+comment7.params=
+comment7.target=void\ shouldFighterStoreDenyPoorRobot()
+comment8.params=
+comment8.target=void\ shouldFighterStoreAllowRichRobot()
+comment9.params=
+comment9.target=void\ shouldAutonomousStorePlaceAtRandomLocation()
+numComments=11

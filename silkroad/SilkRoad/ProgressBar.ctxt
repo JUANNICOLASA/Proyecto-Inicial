@@ -1,0 +1,13 @@
+#BlueJ class context
+comment0.target=ProgressBar
+comment0.text=\r\n\ Representa\ una\ barra\ de\ progreso\ visual.\r\n
+comment1.params=
+comment1.target=ProgressBar()
+comment2.params=currentValue\ maxValue
+comment2.target=void\ update(int,\ int)
+comment2.text=\r\n\ Actualiza\ la\ barra\ de\ progreso.\r\n
+comment3.params=
+comment3.target=void\ makeVisible()
+comment4.params=
+comment4.target=void\ makeInvisible()
+numComments=5
