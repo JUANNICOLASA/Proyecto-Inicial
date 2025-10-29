@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Canvas
+comment0.text=\r\n\ La\ clase\ Canvas\ proporciona\ una\ ventana\ simple\ en\ la\ que\ se\ pueden\ dibujar\r\n\ objetos.\ Utiliza\ un\ patr\u00F3n\ Singleton\ para\ asegurar\ que\ solo\ haya\ una\ instancia\r\n\ de\ la\ ventana.\r\n
+comment1.params=
+comment1.target=Canvas\ getCanvas()
+comment1.text=\r\n\ M\u00E9todo\ de\ f\u00E1brica\ para\ obtener\ la\ \u00FAnica\ instancia\ del\ canvas.\r\n
+comment10.params=component
+comment10.target=void\ erase(javax.swing.JComponent)
+comment2.params=title\ width\ height\ bgColour
+comment2.target=Canvas(java.lang.String,\ int,\ int,\ java.awt.Color)
+comment3.params=visible
+comment3.target=void\ setVisible(boolean)
+comment4.params=referenceObject\ color\ shape
+comment4.target=void\ draw(java.lang.Object,\ java.lang.String,\ java.awt.Shape)
+comment5.params=referenceObject
+comment5.target=void\ erase(java.lang.Object)
+comment6.params=
+comment6.target=void\ erase()
+comment7.params=colorString
+comment7.target=void\ setForegroundColor(java.lang.String)
+comment8.params=milliseconds
+comment8.target=void\ wait(int)
+comment9.params=
+comment9.target=void\ redraw()
+numComments=11

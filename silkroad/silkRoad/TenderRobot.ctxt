@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=TenderRobot
+comment0.text=\r\n\ Un\ robot\ que\ solo\ toma\ la\ mitad\ del\ dinero\ de\ las\ tiendas.\r\n\ Requisito\ del\ Ciclo\ 4.\r\n
+comment1.params=location\ color\ x\ y
+comment1.target=TenderRobot(int,\ java.lang.String,\ int,\ int)
+comment2.params=stores
+comment2.target=int\ decideNextMove(java.util.List)
+comment2.text=\r\n\ Decide\ el\ pr\u00F3ximo\ movimiento\ bas\u00E1ndose\ en\ la\ tienda\ m\u00E1s\ cercana\ con\ tenges.\r\n
+numComments=3

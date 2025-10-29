@@ -1,0 +1,14 @@
+#BlueJ class context
+comment0.target=SilkRoadAtest
+comment0.text=\r\n\ Pruebas\ de\ Aceptaci\u00F3n\ (Atest)\ para\ el\ Ciclo\ 4.\r\n\ Estas\ pruebas\ son\ visuales,\ usan\ pausas\ y\ preguntan\ al\ usuario.\r\n
+comment1.params=
+comment1.target=void\ setUp()
+comment2.params=
+comment2.target=void\ tearDown()
+comment3.params=
+comment3.target=void\ acceptanceTestTheGreatHeist()
+comment3.text=\r\n\ Prueba\ de\ Aceptaci\u00F3n\ 1\r\n\ Evidencia\ la\ diferencia\ visual\ del\ ThiefRobot\ y\ la\ l\u00F3gica\ de\ robo.\r\n
+comment4.params=
+comment4.target=void\ acceptanceTestSpecialStores()
+comment4.text=\r\n\ Prueba\ de\ Aceptaci\u00F3n\ 2\r\n\ Evidencia\ la\ diferencia\ visual\ y\ l\u00F3gica\ de\ FighterStore\ y\ AutonomousStore.\r\n
+numComments=5
